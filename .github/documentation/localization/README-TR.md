@@ -43,7 +43,7 @@ Eğer kurulum programını kullanmayı seçerseniz ve doğru bir şekilde çalı
       Win + R tuşlarına basın ve `%appdata%` yazın.
 
 ### Eklenti İndirme
-Bu kadar, EXILED şimdi sunucunuzda kuruldu ve bir sonraki sunucu başladığında aktif olmalıdır. Unutmayın ki EXILED kendi başına neredeyse hiçbir şey yapmaz, bu yüzden yeni eklentileri **[Discord](https://discord.gg/PyUkWTg)** sunucumuzdan almayı unutmayın.
+Bu kadar, EXILED şimdi sunucunuzda kuruldu ve bir sonraki sunucu başladığında aktif olmalıdır. Unutmayın ki EXILED kendi başına neredeyse hiçbir şey yapmaz, bu yüzden yeni eklentileri **[Discord](https://discord.gg/exiledreboot)** sunucumuzdan almayı unutmayın.
 - Bir Eklenti indirmek için aşağıdaki talimatları okuyun:
   - Bir eklentiyi indirmek için [*Onun* releases (yayınlanma) sayfasına gidin](https://i.imgur.com/u34wgPD.jpg) (**`.dll` UZANTILI OLMALIDIR**)
   - İndirdiğiniz eklentiyi: ``C:\Users\%UserName%\AppData\Roaming\EXILED\Plugins``'dizinine taşıyın (Win + R Tuşlarına basarak `%appdata%` yazarak buraya taşıyabilirsiniz)
